@@ -38,8 +38,8 @@
           "error",
           {
             "max": 150,
-            "skip-blank-lines": true,
-            "skip-comments": true
+            "skipBlankLines": true,
+            "skipComments": true
           }
         ]
       }
