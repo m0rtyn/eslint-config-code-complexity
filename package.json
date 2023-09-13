@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-code-complexity",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "Eslint config for adding code complexity constraints to code linting.",
   "main": "index.js",
   "dependencies": {},
