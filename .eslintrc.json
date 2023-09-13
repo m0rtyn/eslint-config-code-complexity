@@ -2,7 +2,11 @@
   "overrides": [
     {
       "files": [
-        "*.ts"
+        "*.ts",
+        "*.tsx",
+        "*.js",
+        "*.jsx",
+        "*.vue"
       ],
       "excludedFiles": "*.spec.ts",
       "rules": {
